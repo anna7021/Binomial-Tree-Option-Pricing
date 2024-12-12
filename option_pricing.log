@@ -1,0 +1,15 @@
+S0 = 100  # Initial stock price
+K = 105  # Strike price
+r = 0.05  # Risk-free rate
+T = 0.5  # Time to maturity
+sigma = 0.445  # Volatility
+N = 100  # Number of steps
+
+2024-12-12 17:35:57,305 - INFO - Final European Put Option Value at t=0: 13.9032
+2024-12-12 17:35:57,309 - INFO - Final American Put Option Value at t=0: 14.2086
+
+2024-12-12 17:36:18,158 - INFO - Explore the convergence of a binomial tree for american options
+2024-12-12 17:36:18,158 - INFO - To achieve $0.01 precision, we must ensure that increasing N further does not change the option price by more than $0.005 between consecutive iterations. This way, when rounded, the price remains stable at $0.01 precision.
+2024-12-12 17:36:18,158 - INFO - Starting convergence search for American Put Option...
+2024-12-12 17:36:18,245 - INFO - Convergence achieved at N=85 with option price: 14.2150
+2024-12-12 17:36:18,245 - INFO - American Put Option converged to 14.22 with N=85

@@ -1,0 +1,12 @@
+2024-12-12 17:30:18,248 - INFO - Throw 1: ['Continue', 'Continue', 'Continue', 'Continue', 'Stop', 'Stop']
+2024-12-12 17:30:18,250 - INFO - Throw 2: ['Continue', 'Continue', 'Continue', 'Stop', 'Stop', 'Stop']
+2024-12-12 17:30:18,250 - INFO - Throw 3: ['Stop', 'Stop', 'Stop', 'Stop', 'Stop', 'Stop']
+2024-12-12 17:30:18,250 - INFO - Fair price to pay for 3 throws: $46.67
+2024-12-12 17:30:18,251 - INFO - Optimal Strategy and Fair Price for 5 throws:
+
+2024-12-12 17:30:18,251 - INFO - Throw 1: ['Continue', 'Continue', 'Continue', 'Continue', 'Stop', 'Stop']
+2024-12-12 17:30:18,251 - INFO - Throw 2: ['Continue', 'Continue', 'Continue', 'Continue', 'Stop', 'Stop']
+2024-12-12 17:30:18,251 - INFO - Throw 3: ['Continue', 'Continue', 'Continue', 'Continue', 'Stop', 'Stop']
+2024-12-12 17:30:18,251 - INFO - Throw 4: ['Continue', 'Continue', 'Continue', 'Stop', 'Stop', 'Stop']
+2024-12-12 17:30:18,251 - INFO - Throw 5: ['Stop', 'Stop', 'Stop', 'Stop', 'Stop', 'Stop']
+2024-12-12 17:30:18,251 - INFO - Fair price to pay for 5 throws: $51.30
