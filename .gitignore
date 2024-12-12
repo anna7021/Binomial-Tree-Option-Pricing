@@ -1,0 +1,10 @@
+ECHO is on.
+
+# PyCharm
+.idea/
+__pycache__/
+*.pyc
+
+
+# Environment
+.env
